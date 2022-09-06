@@ -1,3 +1,5 @@
+The `zip folder` in the releases did not work in windows.
+
 # GUI counter with rust
 
 Using [druid](https://github.com/linebender/druid)
